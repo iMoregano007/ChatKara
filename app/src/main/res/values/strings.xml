@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CHATKARA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="review1">This place is great! Atmosphere is chill and cool but the staff is also really friendly. They know what they’re doing and what they’re talking about, and you can tell making the customers happy is their main priority. Food is pretty good, some Indian classics and some twists, and for their prices it’s 100% worth it.</string>
+    <string name="welcome">Welcome To Chatkara!</string>
+    <string name="review2">First time in Agra and YOU have to go! It’s the cutest little spot with amazing food. The Chatkara is to die for. IT WAS FIRE!! The service we received was so amazing and we will definitely be back again. They made us feel welcomed and gave us an amazing experience.</string>
+    <string name="review3">Do yourself a favor and visit this lovely restaurant in City of Taj. The service is unmatched. The staff truly cares about your experience. The food is absolutely amazing – everything we tasted melted in other mouths. Absolutely the best meal we had while in Agra. Highly recommend!</string>
+
+
+    <string name="overview">Chatkara -- The OG -- reinvents the neighborhood eatery, combining timeless inspiration from classic Indian with inventive and playful modern flair. With influences ranging from the 1950s diner to the elegant railway dining cars of days past, you\'ll find a nostalgic collection of comforts, classics and curiosities with a modern twist.</string>
+    <string name="stars"> ★ ★ ★ ★ ★</string>
+    <string name="overview2"> Our two-toned Terrazzo floor mirrors the North Yamuna River as it winds through Taj, leading you through the restaurant. Come take a bite out of Taj at The Chatkara -- we\'ll see you soon!</string>
+</resources>
